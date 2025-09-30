@@ -11,18 +11,6 @@ PyPI - Version 0.1.0 | PyPI - Python 3.8+
 - Tutorial  
 - License
   
-## Installation
-
-### Prerequisites
-- Python 3.8 or higher
-- pip package manager
-
-
-
-1. Clone the repository:
-git clone https://github.com/Nixaaaaa/Air-Traffic-Passenger-Statistics.git
-cd Air-Traffic-Passenger-Statistics
-
 ## Tutorial
 https://github.com/Nixaaaaa/Air-Traffic-Passenger-Statistics/blob/main/tutorial.ipynb
 
