@@ -8,9 +8,6 @@ PyPI - Version 0.1.0 | PyPI - Python 3.8+
 
 ## Table of Contents
 - Installation
-
-```bash
-pip install git+https://github.com/Nixaaaaa/Air-Traffic-Passenger-Statistics.git
 - Tutorial  
 - License
 
