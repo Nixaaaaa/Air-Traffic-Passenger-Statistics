@@ -1,2 +1,19 @@
-# Air-Traffic-Passenger-Statistics
-This project explores  air traffic passenger statistics through end-to-end data analysis. The goal is to understand air travel trends, patterns, and insights by applying data wrangling, cleaning, analysis, and visualization techniques.
+# Airlines Traffic Analysis Package ✈️
+
+The airlines_traffic package is specially designed to do time series analysis of airline traffic data, which was collected from various airline performance datasets. The package has 3 classes that provide functions to perform data preprocessing, statistical analysis, and comprehensive visualizations.
+
+Detailed instructions are included in the tutorial.
+
+PyPI - Version 0.1.0 | PyPI - Python 3.8+
+
+## Table of Contents
+- Installation
+- Tutorial  
+- License
+
+## Tutorial
+https://github.com/Nixaaaaa/Air-Traffic-Passenger-Statistics/blob/main/tutorial.ipynb
+
+## Examples
+```python
+import airlines_traffic as at
